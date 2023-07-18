@@ -1,0 +1,43 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    color: #04146c;   
+    box-sizing: border-box;
+}
+#logo{
+    width: 5%;
+    margin-left: 2vw;
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-size: 96px;
+    color: #0a2ff1;
+}
+nav {
+    display: flex;
+    justify-content: flex-start;
+    border-top: 35px solid #5364c7;
+    height: 130px;
+    align-items: center;
+    
+    margin: auto;
+}
+a {
+    font-size: 24px;
+    margin-left: 5vw;
+    text-decoration: none;
+}
+header , main{
+    text-align: center;
+    
+    margin: auto;
+}
+p{
+    font-size: 34.66px;
+}
+img{
+    width: 100%;   
+}
+.activo {
+    font-weight: 700;
+}
+
